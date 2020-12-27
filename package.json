@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-hw",
+  "version": "0.0.1",
+  "description": "Node.js GMP homework",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ./"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ProgSelC/nodejs-hw.git"
+  },
+  "author": "ProgSelC",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ProgSelC/nodejs-hw/issues"
+  },
+  "homepage": "https://github.com/ProgSelC/nodejs-hw#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
